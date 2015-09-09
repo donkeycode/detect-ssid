@@ -1,0 +1,11 @@
+{
+  "name": "detect-ssid",
+  "version": "1.0.0",
+  "description": "Easyly find the current wifi-ssid connected",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedric LOMBARDOT <cedric@donkeycode.com>",
+  "license": "MIT"
+}
