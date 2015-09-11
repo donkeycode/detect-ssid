@@ -14,7 +14,7 @@ var getWinSSID = function getWinSSID(done) {
         var parts = stdout.trim().split(':');
 
         if (parts.length < 2) {
-            done("No ssid found", null, stderr);
+            done("No ssid found", "", stderr);
             return;
         }
 
