@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git:////github.com/donkeycode/detect-ssid.git"
+    "url": "git://github.com/donkeycode/detect-ssid.git"
   },
   "author": "Cedric LOMBARDOT <cedric@donkeycode.com>",
   "license": "MIT"
