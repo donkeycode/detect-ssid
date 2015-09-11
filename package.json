@@ -1,6 +1,6 @@
 {
   "name": "detect-ssid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easyly find the current wifi-ssid connected",
   "main": "index.js",
   "scripts": {
