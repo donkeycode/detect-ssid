@@ -8,7 +8,7 @@ var getOsxSSID = function getOsxSSID(done) {
 };
 
 var getWinSSID = function getWinSSID(done) {
-    var cmd = "netsh wlan show interfaces | findstr /R /C:\" SSID";
+    var cmd = "netsh wlan show interfaces | findstr /R /C:\" SSID\"";
 
     exec(cmd, function (error, stdout, stderr) {
         var parts = stdout.trim().split(':');

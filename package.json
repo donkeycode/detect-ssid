@@ -1,10 +1,14 @@
 {
   "name": "detect-ssid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easyly find the current wifi-ssid connected",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git:////github.com/donkeycode/detect-ssid.git"
   },
   "author": "Cedric LOMBARDOT <cedric@donkeycode.com>",
   "license": "MIT"
